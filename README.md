@@ -1,0 +1,1 @@
+A little python script that uses buspirate to play around with nRF24LU1 chips.
